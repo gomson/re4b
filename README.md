@@ -1,2 +1,2 @@
 # re4b
-Reverse Engineering book
+"Reverse Engineering for Beginners" free book by Dennis Yurichev
